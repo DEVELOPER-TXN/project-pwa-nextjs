@@ -2,6 +2,8 @@
 import type { Metadata } from "next";
 /* GOOGLE FONTS | Optimized Fonts */
 import { roboto, nunito } from "./ui/fonts";
+/* STYLESHEET | Global/Root */
+import "@/styles/globals.scss";
 
 /* METADATA TAGS | [S.E.O] */
 export const metadata: Metadata = {
