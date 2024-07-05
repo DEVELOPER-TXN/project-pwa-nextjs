@@ -2,6 +2,10 @@ import React from "react";
 
 export default function HomePage() {
   return (
-    <div>index.html</div>
+    <main>
+      <div>
+        <h1>PROJECT PWA | Next.js</h1>
+      </div>
+    </main>
   );
 }
